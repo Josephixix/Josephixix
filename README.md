@@ -1,4 +1,4 @@
-Hi, I'm Jovo 👋
+Hi, I'm Jovo.
 I’m a full-stack design engineer who loves thoughtful UI, clean code, and building fun projects.
 
 Physics graduate.
